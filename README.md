@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Joel, I am a CS engineer with a special interest is systems and machine learning. I also build mobile applications in `Flutter`, backends in `.NET Core` and scripting in `Python` and `PowerShell`.
+I am Joel, I am a CS engineer with a special interest is systems and machine learning. I also build mobile applications in `Flutter`, backends in `.NET Core` and do some scripting in `Python` and `PowerShell`.
 
 
 <!--
