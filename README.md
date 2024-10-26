@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Joel, I am a CS engineer with a special interest is systems and machine learning. I also build mobile applications in `Flutter`, backends in `.NET Core` and scripting in `Python` and `PowerShell`.
+
+
 <!--
 **JoelMathewC/JoelMathewC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
